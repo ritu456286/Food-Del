@@ -262,7 +262,7 @@ export const food_list = [
         category: "Cake"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
+        name: "Garlic Mushroom",
         image: food_21,
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -279,7 +279,7 @@ export const food_list = [
         name: "Mix Veg Pulao",
         image: food_23,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "c",
         category: "Pure Veg"
     }, {
         _id: "24",
